@@ -1,6 +1,4 @@
-## Welcome to GitHub Pages
+## Just another day of bliss  What a life!
 
-Nice to be able to leverage this application and its tools
-
-To Easily Deploy Web site / pages. 
+![image](https://user-images.githubusercontent.com/75179527/100662737-25b15400-330a-11eb-8396-d5c39be760ac.png) 
 
